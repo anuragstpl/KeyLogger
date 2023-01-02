@@ -1,0 +1,17 @@
+D:\Projects\Keylogger\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Projects\Keylogger\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Projects\Keylogger\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Projects\Keylogger\WindowsFormsApp1\bin\Debug\KeystrokeAPI.dll
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Projects\Keylogger\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+D:\Projects\Keylogger\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+D:\Projects\Keylogger\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
